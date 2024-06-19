@@ -1,3 +1,4 @@
 a=2
 b=3
-print("La suma de %i y %i es %i"%(a,b,a+b))
+c=8
+print("La suma de %i, %i y %i es %i"%(a,b,c,a+b+c))
